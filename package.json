@@ -1,0 +1,19 @@
+{
+  "name": "package-new-test",
+  "version": "1.0.0",
+  "description": "Testing sending my own package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speeed76/package-new-test.git"
+  },
+  "author": "Pawel Giers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/speeed76/package-new-test/issues"
+  },
+  "homepage": "https://github.com/speeed76/package-new-test#readme"
+}
