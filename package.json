@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/speeed76/package-new-test/issues"
   },
-  "homepage": "https://github.com/speeed76/package-new-test#readme"
+  "homepage": "https://github.com/speeed76/package-new-test#readme",
+  "publishConfig": {
+   "speeed76:registry": "https://npm.pkg.github.com"
+ }
 }
